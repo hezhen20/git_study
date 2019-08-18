@@ -1,2 +1,4 @@
 Git is version control system.
 Git is free of charge.
+
+Git has a mutable index called stage.
